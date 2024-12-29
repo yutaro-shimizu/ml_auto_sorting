@@ -4,3 +4,9 @@ python-docx
 PyPDF2
 ezdxf
 requests
+asciitree
+json
+asyncio
+os
+collections
+llama_index
