@@ -1,5 +1,3 @@
-# main.py
-
 import os
 import json
 import streamlit as st
@@ -126,7 +124,7 @@ if directory:
 
                 st.session_state.summaries = summaries
                 progress_bar.progress(100)
-                st.write("仕訳先作成中。数分時間がかかります。")
+                st.write("仕訳先作成中。数分間かかります。")
 
                 if summaries:
                     new_tree_response = generate_tree_structure(summaries)
