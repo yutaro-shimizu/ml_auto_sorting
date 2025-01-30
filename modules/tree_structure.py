@@ -27,9 +27,10 @@ def generate_tree_structure(summaries, api_url="http://localhost:11434/api/gener
     - Think about how you will search for your files: What comes first?
 
     - The file name needs to be descriptive and concise.
-    - Format file names: Avoid spaces, capital letters or special characters in your file names. Always use only lowercase and underscores instead.
-    - If the file is already named well or matches a known convention, set the destination path to the same as the source path.
-    - The destination path should be placed under the current directory. Always return the full path.
+    - Format file names: Avoid spaces, capital letters or special characters in your file names. Strictly use only lowercase and underscores instead.
+
+    If the file is already named well or matches a known convention, set the destination path to the same as the source path.
+    The destination path should be placed under the current directory. Always return the full path.
 
     Summaries:
     \"\"\"
