@@ -1,12 +1,6 @@
 streamlit
-pandas
-python-docx
 PyPDF2
-ezdxf
+python-docx
+pandas
+python-pptx
 requests
-asciitree
-json
-asyncio
-os
-collections
-llama_index
