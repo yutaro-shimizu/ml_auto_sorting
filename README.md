@@ -20,7 +20,7 @@
 1. **リポジトリのクローン**
 
     ```bash
-    git clone https://https://github.com/yutaro-shimizu/ml_auto_sorting
+    git clone https://github.com/yutaro-shimizu/ml_auto_sorting
     cd ml_auto_sorting
     ```
 
